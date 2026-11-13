@@ -1,0 +1,16 @@
+# lecture content and generated media: never commit
+lectures/
+out/
+test/*.mp4
+test/*.wav
+test/*.aiff
+*.mp4
+*.part
+*.ytdl
+*cookies*.txt
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,4 @@
+mlx-whisper
+opencv-python-headless<4.13
+numpy
+yt-dlp
