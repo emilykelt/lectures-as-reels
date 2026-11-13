@@ -4,6 +4,14 @@ Turns a lecture recording into 45–90 s Instagram-style reels: slides on top, l
 podcast-style word-highlight captions, hook title, progress bar. Jump-cuts out the admin and
 rambling. Claude picks the clips; whisper does the transcript; ffmpeg does the editing.
 
+## Copyright notice
+
+Lecture recordings belong to the lecturer and the university. This tool is for **personal
+study only**: download only recordings you are entitled to view, keep the reels to yourself,
+and do not post them on Instagram or anywhere else without the lecturer's written permission.
+Check your institution's recording policy (for Cambridge, the Panopto lecture-capture terms)
+before using it. The authors take no responsibility for misuse.
+
 ## Setup (Apple Silicon Mac)
 
     brew install ffmpeg uv
